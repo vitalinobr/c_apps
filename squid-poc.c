@@ -1,6 +1,6 @@
 /*
 	SQUID MALWARE PoC
-	COMPILA COM: $ gcc Malware_PoC.c -lcurl -o PoC
+	COMPILA COM: $ gcc Malware_PoC.c -lcurl -lm -o PoC
 */
 
 #include <stdio.h>
